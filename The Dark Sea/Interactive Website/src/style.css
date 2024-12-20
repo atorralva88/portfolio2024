@@ -1,0 +1,32 @@
+#terminal {
+    background-color:#292e2c;
+    color:#33a75f;
+    font-family: 'Courier New', monospace;
+    line-height: 1.5;
+    font-size: 18px;
+}
+input[type="text"] {
+    background-color: transparent;
+    color: #45c77f;
+    border: none;
+    display: inline;
+    outline: none;
+    font-family: inherit;
+    font-size: inherit;
+    padding: none;
+    width: auto;
+    height: 50px;
+}
+input[type="text"]:focus {
+    outline: none;
+}
+a{
+    color:#4cc77b;
+}
+a:visited{
+    color:#1f804f;
+}
+
+a:hover{
+    color:#2ec029;
+}

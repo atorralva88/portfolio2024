@@ -1,0 +1,197 @@
+.commlog {
+    background-color: rgb(22, 30, 37);
+    padding-top: 50px;
+    padding-right: 100px;
+    padding-left: 100px;
+    font-family: 'Courier New', monospace;
+    line-height: 1.5;
+    font-size: 18px;
+}
+
+#wilson{
+    padding-top: 40px;
+    padding-bottom: 40px;
+    padding-right: 100px;
+    padding-left: 100px;
+    color: #3e67cf;
+}
+
+#miremont {
+    padding-top: 40px;
+    padding-bottom: 40px;
+    padding-right: 100px;
+    padding-left: 100px;
+    color:rgb(217, 224, 230);
+}
+
+.breakingnews {
+    background-color:#2b2c2e;
+    color:#6699bb;
+    padding-top: 50px;
+    padding-right: 100px;
+    padding-left: 100px;
+    font-family: 'Courier New', monospace;
+    line-height: 1.5;
+    font-size: 18px;
+}
+
+#title {
+    color:#b32525;
+    font-size: 40px;
+}
+
+.accesslogs {
+    background-color: rgb(11, 20, 36);
+    color: rgb(211, 160, 49);
+    padding-right: 100px;
+    padding-left: 100px;
+    font-family: 'Courier New', monospace;
+    line-height: 1.5;
+    font-size: 18px;
+}
+
+#log {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-right: 100px;
+    padding-left: 100px;
+}
+
+.policereport {
+    background-color: rgb(18, 18, 19);
+    color:#b3a5a2;
+    padding-top: 50px;
+    padding-right: 100px;
+    padding-left: 100px;
+    font-family: 'Courier New', monospace;
+    line-height: 1.5;
+    font-size: 18px;
+}
+
+.policereport th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
+
+.policereport table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: -1px;
+}
+
+.fundtransfer {
+    background-color: #414038;
+    color:rgb(235, 229, 179);
+    padding-top: 50px;
+    padding-right: 20px;
+    padding-left: 20px;
+    font-family: 'Courier New', monospace;
+    line-height: 1.5;
+    font-size: 18px;
+}
+
+.fundtransfer table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: -1px;
+}
+
+.fundtransfer th, td {
+    border: 1px solid rgb(235, 229, 179);
+    padding: 8px;
+    text-align: left;
+}
+
+#name:hover:before {
+    color:rgb(74, 48, 82);
+    content: "3/20/888";
+}
+
+p {
+  text-indent: 10%;
+}
+
+.transcript {
+    background-color: #0f1312;
+    color:#53b1b1;
+    padding-top: 50px;
+    padding-right: 150px;
+    padding-left: 150px;
+    font-family: 'Courier New', monospace;
+    line-height: 1.5;
+    font-size: 18px;
+}
+
+.cerberus {
+    padding-top: 50px;
+    background-color: #110e0e;
+    color:#a52d2d;
+    padding-right: 150px;
+    padding-left: 150px;
+    font-family: 'Courier New', monospace;
+    line-height: 1.5;
+    font-size: 18px;
+}
+
+.cerberus table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: -1px;
+}
+
+.cerberus th, .cerberus td {
+    border: 1px solid #a52d2d;
+    padding: 8px;
+    text-align: left;
+}
+
+.text {
+    background-color: #1d1a1f;
+    color:#865186;
+    padding-top: 50px;
+    padding-right: 150px;
+    padding-left: 150px;
+    font-family: 'Courier New', monospace;
+    line-height: 1.5;
+    font-size: 18px;
+}
+
+.bubble {
+    --r: 25px; /* the radius */
+    --t: 30px; /* the size of the tail */
+    
+    max-width: 300px;
+    padding: calc(2*var(--r)/3);
+    -webkit-mask: 
+      radial-gradient(var(--t) at var(--_d) 0,#0000 98%,#000 102%) 
+        var(--_d) 100%/calc(100% - var(--r)) var(--t) no-repeat,
+      conic-gradient(at var(--r) var(--r),#000 75%,#0000 0) 
+        calc(var(--r)/-2) calc(var(--r)/-2) padding-box, 
+      radial-gradient(50% 50%,#000 98%,#0000 101%) 
+        0 0/var(--r) var(--r) space padding-box;
+    background: linear-gradient(135deg,#414785,#312a52) border-box;
+    color: #fff;
+  }
+  .left {
+    --_d: 0%;
+    border-left: var(--t) solid #0000;
+    margin-right: var(--t);
+    place-self: start;
+  }
+  .right {
+    --_d: 100%;
+    border-right: var(--t) solid #0000;
+    margin-left: var(--t);
+    place-self: end;
+  }
+  
+.text .body {
+    margin: 0;
+    min-height: 100vh;
+    display: grid;
+    place-content: center;
+    gap: 20px;
+    font-family: system-ui, sans-serif;
+    font-size: 20px;
+  }
