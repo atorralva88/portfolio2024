@@ -31,4 +31,5 @@ Eventually though I realized that if I wanted to be a writer, I had to use my op
 was the moment I decided to switch majors.
 
 Now I am a college graduate with a degree in Storytelling through Interactive Media and Visual Mediums (and a Minor
-in creative writing). 
+in creative writing). It is my dream to work a Games Writer and tell stories though my favorite medium! Being a storyteller
+is the only thing I want to do with my life and I know I have the passion and talent to do it!
