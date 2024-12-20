@@ -8,7 +8,7 @@ In the Film folder you will find two short films that I worked on. These short f
 
 In the General folder you will find a wide assortment of writing projects and other works that I am genuinely proud of. From poetry, to interactive mini stories, to hermitcrab essays.
 
-In The Dark Sea you will find a bunch of files pertaining to my present ongoing worldbuilding project. I plan to add more to it as time goes on because it is genuinely a world I am passionate and excited to tell.
+In The Dark Sea you will find a bunch of files pertaining to my present ongoing TTRPG worldbuilding project. I plan to add more to it as time goes on because it is genuinely a world I am passionate and excited to tell.
 
 In the Video folder you will find two files. The first, labeled Editing Projects, was two short videos I edited in my filmmaking class. The first video, titled "Gnashing," was an attempt at telling a scene using only subtitles and audio provided to the class. The video titled "Where the Tulips Lie," is a video in which the goal was to establish a tone or theme using images and audio. 
 
